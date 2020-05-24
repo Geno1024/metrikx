@@ -1,4 +1,4 @@
-package com.geno1024.metrikx.accounts
+package com.geno1024.metrikx.accounts.jinri
 
 import com.geno1024.metrikx.PubAccount
 import com.geno1024.metrikx.companies.XueShengHui
